@@ -1,4 +1,4 @@
-package projeto;
+
 
 public class calculo {
 
@@ -9,7 +9,7 @@ public class calculo {
 	}
 	
 	public static void main(String[] args) {
-		
+		System.out.println("teste");
 	}
 	
 }
