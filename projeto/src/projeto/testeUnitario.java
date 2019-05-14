@@ -8,7 +8,7 @@ class testeUnitario {
 
 	@Test
 	void test() {
-		fail("Not yet implemented");
+		calculo calc = new calculo();
+		assertEquals(5, calc.somar(2, 3));
 	}
-
 }
