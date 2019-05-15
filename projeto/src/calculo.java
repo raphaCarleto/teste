@@ -1,5 +1,3 @@
-
-
 public class calculo {
 
 	public double somar(double a, double b) {
@@ -9,7 +7,7 @@ public class calculo {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println("teste 3");
+		System.out.println("teste 4");
 	}
 	
 }
