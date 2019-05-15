@@ -7,7 +7,7 @@ public class calculo {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println("teste 5");
+		System.out.println("teste 6");
 	}
 	
 }
